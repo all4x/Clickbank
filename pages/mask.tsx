@@ -3,7 +3,7 @@
 import Head from 'next/head';
 import React from 'react';
 
-import Iphone from '../../public/Iphone-spinner-2.gif'
+import Iphone from '../public/Iphone-spinner-2.gif'
 
 import Image from 'next/image';
 

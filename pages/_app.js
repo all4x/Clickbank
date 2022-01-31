@@ -1,10 +1,9 @@
-import '../styles/globals.css'
-
-
+import 'tailwindcss/tailwind.css'
 import { useEffect } from 'react'
 import Script from 'next/script'
 import { useRouter } from 'next/router'
 import { GTM_ID, pageview } from '../lib/gtm'
+
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter()
