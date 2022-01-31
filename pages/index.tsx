@@ -32,7 +32,7 @@ export default function Home() {
           <div className='text-left'>
             <p className='p-5 text-2xl'>Claim the limited 80% off offer now before it's too late</p>
             <div className='flex justify-center pt-5 mb-5'>
-             <Link href="../pages/mask.tsx">  
+             <Link href="./mask.tsx">  
                   <button className="p-2 pl-16 pr-16 bg-yellow-500 text-gray-900 font-semibold text-lg rounded-lg focus:border-4 border-gray-300">Click Here To Get Product</button>
              </Link>
             </div> 
