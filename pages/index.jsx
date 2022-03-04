@@ -20,12 +20,12 @@ export default function Home() {
           <div className=''>
             <Topbar/>
             <div className='bg-yellow-400 m-10'>
-            <p className='p-5 text-2xl text-center  font-extrabold'>For Over 80% OFF Today!</p>
+            <p className='p-2 text-2xl text-center  font-extrabold'>For Over 80% OFF Today!</p>
 
             </div>
             <div className='flex justify-center pt-5 mb-5'>
              <Link href="https://bit.ly/3twIfMp">  
-              <button className="p-2 pl-16 pr-16 brightness-110 bg-blue-500 text-gray-50 font-semibold text-lg rounded-lg focus:border-4 border-gray-300">Take Me To The Discount Page</button>
+              <button className=" pl-16 pr-16 brightness-110 bg-blue-500 text-gray-50 font-semibold text-lg rounded-lg focus:border-4 border-gray-300">Take Me To The Discount Page</button>
              </Link>
             </div> 
             <div className='flex items-center justify-center mb-2 p-5 ' >
