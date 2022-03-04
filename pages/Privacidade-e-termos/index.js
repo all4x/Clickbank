@@ -33,7 +33,7 @@ function PrivacidadeTermos() {
                 </div>
                 <h1 className="text-center text-lg font-extrabold">Mais informações</h1>
                 <div className="text-gray-800 p-2 text-left text-lg space-y-3">
-                <p>Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.</p>
+                <p>Esperemos que esteja esclarecido e, como mencionado anteriormente se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.</p>
                 <p>Esta política é efetiva a partir de December/2021.</p>
                 </div>
             </div>
