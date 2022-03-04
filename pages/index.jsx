@@ -12,6 +12,7 @@ export default function Home() {
       <Head>
         <meta name="title" content=" ©"/>
         <link rel="icon" href="/" />
+        <meta name="facebook-domain-verification" content="pa2u9zqqcxpfxo4t0p1k070h3k8r8d" />
       </Head>
       <main className="">
       
