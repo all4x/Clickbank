@@ -31,7 +31,7 @@ export default function Home() {
             </div>
             <div className='flex justify-center pt-3 mb-3 animate-pulse'>
              <Link href="https://bit.ly/3twIfMp">  
-              <button className=" pl-10 pr-10 brightness-110 bg-blue-500 text-gray-50 font-semibold text-lg rounded-lg focus:border-4 border-gray-300">Take Me To The Discount Page</button>
+              <button className=" p-2 pl-14 pr-14 brightness-110 bg-blue-500 text-gray-50 font-semibold text-lg rounded-lg focus:border-4 border-gray-300">Take Me To The Discount Page</button>
              </Link>
             </div> 
             <div className='bg-black'>
